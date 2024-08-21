@@ -54,4 +54,6 @@ namespace TelemetryPortal_MVC.Repositories
         {
             return _context.Clients.Any(e => e.ClientId == id);
         }
+    }
+}
 
