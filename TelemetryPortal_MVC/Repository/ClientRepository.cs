@@ -1,6 +1,6 @@
 ﻿namespace TelemetryPortal_MVC.Repository
 {
-    public class Project
+    public class ClientRepository
     {
     }
 }
