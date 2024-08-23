@@ -16,7 +16,8 @@ In today's world, where millions of applications are widely used, my ability to 
 6. You can now view Clients and Projects. To view the clients click on 'Clients'. Here you can edit, view the details or delete a client.   
    For a detailed explanation on Clients [click here](https://docs.google.com/document/d/1loxXdUFHicDg5n7rnuRLjsr_0TmsLmaW/edit?usp=sharing&ouid=104985369547771360207&rtpof=true&sd=true)
 ![Screenshot 2024-08-22 195713](https://github.com/user-attachments/assets/3ea76f96-8e63-4c8b-9548-6f95461e4524)
-8. To view the projects click on 'Projects'. Here you can edit, view the details or delete a project.
+7. To view the projects click on 'Projects'. Here you can edit, view the details or delete a project.   
+   For a detailed explanation on Projects [click here](https://docs.google.com/document/d/1CTQWW5z9c8wKh5vVGx4qEMruCilJ6LPO/edit?usp=sharing&ouid=104985369547771360207&rtpof=true&sd=true)
 ![Screenshot 2024-08-22 195901](https://github.com/user-attachments/assets/d564f9c2-c448-474c-9ff5-dffb92f71ead)
 
 # References:
