@@ -13,7 +13,7 @@ In today's world, where millions of applications are widely used, my ability to 
 ![Screenshot 2024-08-22 195624](https://github.com/user-attachments/assets/ffcd59dc-0e70-4379-bef5-f83015a70217)
 5. After you have successfully logged in, a welcome message should appear at the top right.
 ![Screenshot 2024-08-22 195654](https://github.com/user-attachments/assets/ba79ea8f-0e06-4b75-881c-58804d4b7dae)
-6. You can now view Clients and Projects. To view the clients click on 'Clients'. Here you can edit, view the details or delete a client.
+6. You can now view Clients and Projects. To view the clients click on 'Clients'. Here you can edit, view the details or delete a client.   
    For a detailed explanation on Clients [click here](https://docs.google.com/document/d/1loxXdUFHicDg5n7rnuRLjsr_0TmsLmaW/edit?usp=sharing&ouid=104985369547771360207&rtpof=true&sd=true)
 ![Screenshot 2024-08-22 195713](https://github.com/user-attachments/assets/3ea76f96-8e63-4c8b-9548-6f95461e4524)
 8. To view the projects click on 'Projects'. Here you can edit, view the details or delete a project.
