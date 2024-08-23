@@ -18,6 +18,8 @@ In today's world, where millions of applications are widely used, my ability to 
 7. To view the projects click on 'Projects'. Here you can edit, view the details or delete a project.
 ![Screenshot 2024-08-22 195901](https://github.com/user-attachments/assets/d564f9c2-c448-474c-9ff5-dffb92f71ead)
 
+# References:
+Here is a document that contains all the references which hepled in completion with the project: [Project-3: References](https://docs.google.com/document/d/1gBWOkyV3rwMM-C5sT1FmmCLK0H3vh6Sn/edit?usp=sharing&ouid=104985369547771360207&rtpof=true&sd=true)   
 
 
 
