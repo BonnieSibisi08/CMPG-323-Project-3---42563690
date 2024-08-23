@@ -9,7 +9,7 @@ In today's world, where millions of applications are widely used, my ability to 
 ![Screenshot 2024-08-22 195535](https://github.com/user-attachments/assets/d39028ae-238e-46ad-8094-677cc765556d)
 3. After you done registering your account, it will take you to  home page. On the home page, click Login, which will allow you to login into the system.
 ![Screenshot 2024-08-22 195901](https://github.com/user-attachments/assets/5c93d81a-087c-41a6-9ee8-b48f71ec1f40)
-4. On the login page, enter your credentials. When you are done click the blue 'Log in' button. You can use these credentials "email: merorom55@brinkc.com", "Password: X2GC5.rC.z7sjfM" alternately you can use the one you just created.
+4. On the login page, enter your credentials. When you are done click the blue 'Log in' button. You can use these credentials "email: merorom55@brinkc.com", "Password: X2GC5.rC.z7sjfM", Alternately you can use the ones you just created.
 ![Screenshot 2024-08-22 195624](https://github.com/user-attachments/assets/ffcd59dc-0e70-4379-bef5-f83015a70217)
 5. After you have successfully logged in, a welcome message should appear at the top right.
 ![Screenshot 2024-08-22 195654](https://github.com/user-attachments/assets/ba79ea8f-0e06-4b75-881c-58804d4b7dae)
